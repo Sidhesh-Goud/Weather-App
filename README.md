@@ -2,6 +2,9 @@
 Weather Connect is a simple web application that allows users to check the current weather conditions for any city.
 It uses the OpenWeatherMap API to fetch weather data and displays it in a user-friendly interface.
 
+### Live Link
+https://weather-mj498oay0-sidhesh-gouds-projects.vercel.app/
+
 # Project Structure
 *index.html:* The main HTML file that contains the structure of the application.
 *style.css:* The CSS file for styling the application.
